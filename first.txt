@@ -1,0 +1,4 @@
+Today is Tuesday
+Month is September
+Day is 27th
+Year is 2022
