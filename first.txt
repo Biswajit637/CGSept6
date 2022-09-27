@@ -7,3 +7,4 @@ We are learning Git
 
 Today is last day for Module-1
 
+Changing directly in github
